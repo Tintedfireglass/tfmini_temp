@@ -1,3 +1,0 @@
-key,type,encoding,value
-root_ns,namespace,,
-model,file,binary,./model.tflite
